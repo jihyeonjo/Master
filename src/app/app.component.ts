@@ -9,5 +9,6 @@ export class AppComponent {
   title = 'Study';
   constructor() {
     console.log("call constructor");
+    console.log("HOT FIX in master");
   }
 }
